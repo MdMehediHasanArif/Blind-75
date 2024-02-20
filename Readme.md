@@ -1,0 +1,1 @@
+The blind 75 list is a list of popular algorithm questions from leetcode. You will find the solutions coded with typescript as well as explanations.
